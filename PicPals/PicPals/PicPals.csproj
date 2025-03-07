@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\PicPals.Common\PicPals.Common.csproj" />
     <ProjectReference Include="..\..\PicPals.DAL\PicPals.DAL.csproj" />
     <ProjectReference Include="..\PicPals.Client\PicPals.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.3.0" />
