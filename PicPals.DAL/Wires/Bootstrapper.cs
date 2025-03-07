@@ -22,5 +22,6 @@ public class Bootstrapper : IBootstrapper
         services.AddScoped<IPicRepository, PicRepository>();
         services.AddScoped<ILoginInfoRepository, LoginInfoRepository>();
         services.AddScoped<ITagRepository, TagRepository>();
+        services.AddScoped<IRoleRepository, RoleRepository>();
     }
 }
