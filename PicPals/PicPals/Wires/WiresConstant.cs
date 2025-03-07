@@ -5,6 +5,7 @@ public static class WiresConstant
     public static Type[] GetBootstrapper =>
         [
             typeof(Bootstrapper),
+            typeof(Client.Wires.Bootstrapper),
             typeof(DAL.Wires.Bootstrapper),
             typeof(Common.Wires.Bootstrapper)
         ];

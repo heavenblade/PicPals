@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPals", "PicPals\PicPals.csproj", "{AA0B912E-9620-45E5-A756-052C0367A2FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPals", "PicPals\PicPals.csproj", "{AA0B912E-9620-45E5-A756-052C0367A2FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPals.Client", "PicPals.Client\PicPals.Client.csproj", "{08056134-9D77-42A5-A97E-2A2D059452C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPals.Client", "PicPals.Client\PicPals.Client.csproj", "{08056134-9D77-42A5-A97E-2A2D059452C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPals.DAL", "..\PicPals.DAL\PicPals.DAL.csproj", "{D245D4E7-1A1A-4521-A132-D8FE9FF74A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPals.DAL", "..\PicPals.DAL\PicPals.DAL.csproj", "{D245D4E7-1A1A-4521-A132-D8FE9FF74A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicPals.Common", "..\PicPals.Common\PicPals.Common.csproj", "{EDF8558D-B7E6-4FF3-9BC7-15358EF01363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PicPals.Common", "..\PicPals.Common\PicPals.Common.csproj", "{EDF8558D-B7E6-4FF3-9BC7-15358EF01363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
